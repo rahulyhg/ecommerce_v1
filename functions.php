@@ -30,6 +30,15 @@ function formatDate( $date )
 
 
 
+function getYear()
+{
+
+	return date('Y');
+	
+}//END getYear
+
+
+
 
 
 

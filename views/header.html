@@ -48,7 +48,7 @@
 
                             <li><a href="/profile"><i class="fa fa-user"></i> Minha Conta</a></li>
 
-                            <li><a href="#"><i class="fa fa-heart"></i> Lista de Desejos</a></li>
+                            <!--<li><a href="#"><i class="fa fa-heart"></i> Lista de Desejos</a></li>-->
 
                             <li><a href="/cart"><i class="fa fa-shopping-cart"></i> Meu Carrinho</a></li>
 
@@ -68,7 +68,7 @@
                 </div>
                 
                 <div class="col-md-4">
-                    <div class="header-right">
+                    <div class="header-right hidden">
                         <ul class="list-unstyled list-inline">
                             <li class="dropdown dropdown-small">
                                 <a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="key">moeda :</span><span class="value">BRL </span><b class="caret"></b></a>
@@ -98,7 +98,11 @@
             <div class="row">
                 <div class="col-sm-6">
                     <div class="logo">
-                        <h1><a href="/"><img src="/res/site/img/logo.png"></a></h1>
+                        <h1><a href="/">
+                            <h1 style="color:#e67e22">TI Store</h1>
+                            <small>Fa32.com.br</small>
+                            <!--<img src="/res/site/img/logo.png">-->
+                        </a></h1>
                     </div>
                 </div>
                 
