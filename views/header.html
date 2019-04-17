@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>TI Store | Fat32.com.br</title>
+    <title>IT Store | Fat32.com.br</title>
     
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
@@ -102,7 +102,7 @@
                 <div class="col-sm-6">
                     <div class="logo">
                         <h1><a href="/">
-                            <h1 style="color:#e67e22">TI Store</h1>
+                            <h1 style="color:#e67e22">IT Store</h1>
                             <!--<small>Fa32.com.br</small>-->
                             <!--<img src="/res/site/img/logo.png">-->
                         </a></h1>
