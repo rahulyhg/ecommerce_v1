@@ -42,7 +42,7 @@
     <div class="header-area">
         <div class="container">
             <div class="row">
-                <div class="col-md-8">
+                <div class="col-md-6">
                     <div class="user-menu">
                         <ul>
 
@@ -67,13 +67,28 @@
                     </div>
                 </div>
                 
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="header-right">
-                        <ul class="list-unstyled list-inline">
+
+
+                            <div class="user-menu">
+                                    <ul>
+            
+                                        <li><a href="https://fat32.com.br">Portfólio</a></li>
+                                        <li><a href="https://e-book.fat32.com.br">E-book Store</a></li>
+                                        <li><a href="https://landing.fat32.com.br">Landing</a></li>
+                                        <li><a href="https://code.fat32.com.br">Code</a></li>
+                                        <li><a href="https://borussia.fat32.com.br">Borussia</a></li>
+                                        
+                                    </ul>
+                                </div><!--user-menu-->
+
+
+                        <ul class="list-unstyled list-inline hidden">
                             <li class="dropdown dropdown-small">
-                                <a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="key">Portfólio </span><span class="value"><!--Páginas--> </span><b class="caret"></b></a>
+                                <a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="key">Portfólio: </span><span class="value">Portfólio </span><b class="caret"></b></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="https://fat32.com.br" target="_blank">Home</a></li>
+                                    <li><a href="https://fat32.com.br" target="_blank">Portfólio</a></li>
                                     <li><a href="https://e-book.fat32.com.br" target="_blank">E-book Store</a></li>
                                     <li><a href="https://landing.fat32.com.br" target="_blank">Landing</a></li>
                                     <li><a href="https://code.fat32.com.br" target="_blank">Code</a></li>
@@ -81,7 +96,7 @@
                                 </ul>
                             </li>
 
-                            <li class="dropdown dropdown-small hidden">
+                            <li class="dropdown dropdown-small">
                                 <a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="key">linguagem :</span><span class="value">Português </span><b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="#">Português</a></li>
