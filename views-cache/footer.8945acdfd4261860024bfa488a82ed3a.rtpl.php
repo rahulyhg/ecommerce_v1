@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
-                        <h2>TI Store</h2>
+                        <h2>IT Store</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis sunt id doloribus vero quam laborum quas alias dolores blanditiis iusto consequatur, modi aliquid eveniet eligendi iure eaque ipsam iste, pariatur omnis sint! Suscipit, debitis, quisquam. Laborum commodi veritatis magni at?</p>
                         <div class="footer-social">
                             <a href="https://www.fat32.com/" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -55,7 +55,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; <?php echo getYear(); ?> TI Store Ltda. <a href="https://www.fat32.com.br" target="_blank">fat32.com.br</a></p>
+                        <p>&copy; <?php echo getYear(); ?> IT Store Ltda. <a href="https://www.fat32.com.br" target="_blank">fat32.com.br</a></p>
                     </div>
                 </div>
                 
