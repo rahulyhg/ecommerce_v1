@@ -172,6 +172,7 @@ class User extends Model
 	# AULA 117
 	public static function login( $login, $password )
 	{
+
 		$sql = new Sql();
 
 		$results = $sql->select("
@@ -198,6 +199,7 @@ class User extends Model
 		}//end if
 
 		$data = $results[0];
+		
 
 		if( password_verify( $password, $data["despassword"] ) === true )
 		{

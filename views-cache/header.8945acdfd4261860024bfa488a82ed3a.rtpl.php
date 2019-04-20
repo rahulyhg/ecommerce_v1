@@ -42,7 +42,7 @@
     <div class="header-area">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="user-menu">
                         <ul>
 
@@ -50,7 +50,7 @@
 
                             <!--<li><a href="#"><i class="fa fa-heart"></i> Lista de Desejos</a></li>-->
 
-                            <li><a href="/cart"><i class="fa fa-shopping-cart"></i> Meu Carrinho</a></li>
+                            <!--<li><a href="/cart"><i class="fa fa-shopping-cart"></i> Meu Carrinho</a></li>-->
 
                             <?php if( checkLogin(false) ){ ?>
 
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 
-                <div class="col-md-6">
+                <div class="col-md-8">
                     <div class="header-right">
 
 
@@ -76,6 +76,7 @@
             
                                         <li><a href="https://fat32.com.br">Portfólio</a></li>
                                         <li><a href="https://e-book.fat32.com.br">E-book Store</a></li>
+                                        <li><a href="http://www.linhaprojetos.fat32.com.br/">Linha Projetos</a></li>
                                         <li><a href="https://landing.fat32.com.br">Landing</a></li>
                                         <li><a href="https://code.fat32.com.br">Code</a></li>
                                         <li><a href="https://borussia.fat32.com.br">Borussia</a></li>
@@ -90,6 +91,7 @@
                                 <ul class="dropdown-menu">
                                     <li><a href="https://fat32.com.br" target="_blank">Portfólio</a></li>
                                     <li><a href="https://e-book.fat32.com.br" target="_blank">E-book Store</a></li>
+                                    <li><a href="http://www.linhaprojetos.fat32.com.br/">Linha Projetos</a></li>
                                     <li><a href="https://landing.fat32.com.br" target="_blank">Landing</a></li>
                                     <li><a href="https://code.fat32.com.br" target="_blank">Code</a></li>
                                     <li><a href="https://borussia.fat32.com.br" target="_blank">Borussia</a></li>
